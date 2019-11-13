@@ -1,5 +1,7 @@
 # ToDoFinal
 
+![](first.gif)
+![](second.gif)
 
 Features of This ToDoApp
 
